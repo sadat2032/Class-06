@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div id="header">
+    <div class="header-2">
+        <div class="logo">
+            <img src="images/logo.png" alt="">
+        </div>
+        <div class="email">
+            <div class="e-image">
+                <img src="images/email-logo.jpg" alt="">
+            </div>
+            <div class="e-text">
+                <p>help@creativeit.com</p>
+                <p>info@creativeit.com</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="navber">
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact us</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Courses</a></li>
+        </ul>
+    </nav>
+</div>
+<div class="main">
+    <div class="child-main">
+        <div class="one">
+            <h2>Welcome to Creative IT Institute: Where IT Leaders are Created</h2>
+            <p>Creative IT Institute, one of the leading IT training institutes in Bangladesh offers the best training opportunities. It has been playing a vital role to eradicate the unemployment problem since 2008. Enriched with quality training this
+                institute has never failed to help the individuals to reveal their talents making harmony between creativity and IT. No matter what is your background, we are offering 30 courses for you conducted by experienced trainers to advance
+                your skills. CIT has tremendously well-decorated two campuses with upgraded equipment. Our students are very much happy with our culture, environment and outstanding training method. We are passionate about providing good service to
+                our students. Thus, the students of this institute turn out to be successful marketers and establish their careers in various companies as well. We dedicatedly provide flexible training options such as online training, 24/7 support,
+                lifetime post-training support, job placement and so on. We always maintain the standards of excellence which are visible on Facebook Reviews and Google Reviews. <br> <br> Creative IT Institute, one of the leading IT training institutes
+                in Bangladesh offers the best training opportunities. It has been playing a vital role to eradicate the unemployment problem since 2008. Enriched with quality training this institute has never failed to help the individuals to reveal
+                their talents making harmony between creativity and IT. No matter what is your background, we are offering 30 courses for you conducted by experienced trainers to advance your skills. CIT has tremendously well-decorated two campuses
+                with upgraded equipment. Our students are very much happy with our culture, environment and outstanding training method. We are passionate about providing good service to our students. Thus, the students of this institute turn out
+                to be successful marketers and establish their careers in various companies as well. We dedicatedly provide flexible training options such as online training, 24/7 support, lifetime post-training support, job placement and so on. We
+                always maintain the standards of excellence which are visible on Facebook Reviews and Google Reviews.</p>
+        </div>
+        <div class="two">
+            <div class="aside">
+                <h3>
+                    Recent post
+                </h3>
+                <br>
+                <p>
+                    Graphic Design <br> Web Development <br> Motion Graphics <br> Interior Design
+                </p>
+                <br>
+                <hr width="215px"><br>
+                <h3>
+                    Blog post
+                </h3>
+                <br> Web Design <br> Digital Marketing <br> 3D Animation <br> Communicative
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+
+</html>
+
